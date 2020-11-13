@@ -1,4 +1,4 @@
-# Kirby 3 Google My Business
+# Kirby 3 Google Places API
 
 Place ID:
 API Key:

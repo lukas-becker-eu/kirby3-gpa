@@ -1,6 +1,6 @@
 {
-  "name": "candyblue/kirby3-plugin",
-  "description": "A new plugin for Kirby 3 powered websites",
+  "name": "candyblue/kirby3-gpa",
+  "description": "Integrate Google Places API to your Kirby 3 powered website",
   "type": "kirby-plugin",
   "license": "MIT",
   "authors": [
